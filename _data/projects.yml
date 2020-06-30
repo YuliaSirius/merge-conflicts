@@ -2,9 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # training
-- project: Plumbing work 
+- project: Repair design project 
   role: trainee
   duration: May 2020
+  url: "https://raw.githack.com/YuliaSirius/Design-project/master/index.html"
+  description: Website
+  
+  # training
+- project: Plumbing work 
+  role: trainee
+  duration: June 2020
   url: "https://raw.githack.com/YuliaSirius/Website-Master-/master/index.html"
   description: Website
   
@@ -15,20 +22,5 @@
   url: "https://raw.githack.com/YuliaSirius/Landskape-Design/master/index.html"
   description: Web application
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
-  
-  
   
   
